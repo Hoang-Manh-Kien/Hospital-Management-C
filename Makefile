@@ -1,0 +1,1 @@
+gcc main.c patient.c doctor.c appointment.c utils.c -Wall -o hospital_system.exe
