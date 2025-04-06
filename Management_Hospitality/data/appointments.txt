@@ -1,0 +1,30 @@
+Doctor: Longdeptrai, ID: 102 Patient: Alice, Age: 30, Gender: Female |
+The time when the patient can treated by their doctor is: 1:00
+
+Doctor: Lee, ID: 300 Patient: Bob, Age: 25, Gender: Male |
+The time when the patient can treated by their doctor is: 2:00
+
+Doctor: Brown, ID: 104 Patient: Charlie, Age: 40, Gender: Male |
+The time when the patient can treated by their doctor is: 3:00
+
+Doctor: Davis, ID: 555 Patient: Diana, Age: 35, Gender: Female |
+The time when the patient can treated by their doctor is: 4:00
+
+Doctor: Miller, ID: 601 Patient: Ethan, Age: 28, Gender: Male |
+The time when the patient can treated by their doctor is: 5:00
+
+Doctor: Wilson, ID: 610 Patient: Fiona, Age: 32, Gender: Female |
+The time when the patient can treated by their doctor is: 6:00
+
+Doctor: Moore, ID: 880 Patient: George, Age: 45, Gender: Male |
+The time when the patient can treated by their doctor is: 7:00
+
+Doctor: Anderson, ID: 110 Patient: Hannah, Age: 29, Gender: Female |
+The time when the patient can treated by their doctor is: 8:00
+
+Doctor: Smith, ID: 101 Patient: Ivan, Age: 38, Gender: Male |
+The time when the patient can treated by their doctor is: 9:00
+
+Doctor: Johnson, ID: 102 Patient: Long, Age: 98, Gender: Male |
+The time when the patient can treated by their doctor is: 10:00
+
