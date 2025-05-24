@@ -86,8 +86,8 @@ A C-based hospital management system for managing **patients**, **doctors**, and
 ---
 
 ## Team 👥
-- **Nguyen Huy Long**
-- **Dinh Nguyen Phuong**
+- **Nguyen Huy Long (VinUni)**
+- **Dinh Nguyen Phuong (VinUni)**
 
 ---
 
